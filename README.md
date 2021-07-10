@@ -1,2 +1,2 @@
 # Binary-Calculator
-Binary-calculator
+Basic Binary calculator for Binary Operation (Addition, Multiplication, Subtraction, Division)
