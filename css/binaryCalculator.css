@@ -1,5 +1,5 @@
 body {
-    width: 33%;
+    width: 45%;
 }
 /* Result Styling  */
 #res {
@@ -35,4 +35,16 @@ body {
     font-size: 18px;
     margin: 0px;
     float: left;
+}
+
+@media (max-width: 1300px) {
+    body {
+        width: 70%;
+    }   
+}
+
+@media (max-width: 900px) {
+    body {
+        width: 100%;
+    }   
 }
